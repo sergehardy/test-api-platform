@@ -1,0 +1,6 @@
+#  app/config/schema.yml
+
+# The list of types and properties we want to use
+types:
+  Thing:
+       
